@@ -10,7 +10,7 @@ import { cache } from "react"
 export const metadata: Metadata = {
   title: "The official Goodslang online store",
   description:
-    "Streetwear with a idiomatic/capitalist twist",
+    "Streetwear with a idiomatic capitalist twist",
 }
 
 const getCollectionsWithProducts = cache(
