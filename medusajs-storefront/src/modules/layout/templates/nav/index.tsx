@@ -24,7 +24,12 @@ export default async function Nav() {
               href="/"
               className="txt-compact-xlarge-plus hover:text-ui-fg-base uppercase"
             >
-              Medusa Store
+              <img
+                src="https://i.postimg.cc/sf45dnP2/Screenshot-2024-08-23-at-9-36-00-PM.png"
+                alt="Goodslang"
+                className="h-full" // Adjust the size to fit within the navbar
+                width={150}
+              />
             </LocalizedClientLink>
           </div>
 
